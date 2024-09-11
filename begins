@@ -1,0 +1,21 @@
+<html>
+<head>
+<title>Introduction to subjects</title>
+<body>
+<p><b>Question 1</b></p>
+<h1 style="color:blue";>MATHEMATCS</h1>
+<p align="center"<p style="background-color: grey;">Mathematics was introduced by the ancient Greek mathematicians. Many mathematicians at the same time contributed several topics from various parts of the world. So, nobody is called an inventor of mathematics. But Archimedes is known as the father of mathematics.Mathematics  the science of structure, order, and relation that has evolved from elemental practices of counting, measuring, and describing the shapes of objects.</p></p>
+<font face="Times New Roman">
+<p style="background-color:green;">Physics science that deals with the structure of matter and the interactions between the fundamental constituents of the observable universe. In the broadest sense, physics (from the Greek physikos) is concerned with all aspects of nature on both the macroscopic and submicroscopic levels.</p>
+<br>
+<p><b>Question 2</b></p>
+<p><strong>Mathmatical Expression</strong></p>
+
+<p>x<sup>3</sup>+x<sup>2</sup>+1=0</p>
+<br>
+<p><strong>Chemical Expression</strong></p>
+<p>2NaHCO<sub>3</sub>->Na<sub>2</sub>CO<sub>3</sub>+H<sub>2</sub>+CO<sub>2</sub></p>
+</font>
+</body>
+</head>
+</html>
